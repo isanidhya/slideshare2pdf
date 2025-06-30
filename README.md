@@ -74,7 +74,7 @@ pip install requests beautifulsoup4 Pillow tqdm
 ## 📦 Coming Soon
 
 * [x] CLI Mode
-* [ ] `.exe` for Windows (no Python required)
+* [x] `.exe` for Windows (no Python required)
 * [ ] Chrome Extension (1-click on SlideShare to download as PDF)
 * [ ] Drag & Drop GUI
 
